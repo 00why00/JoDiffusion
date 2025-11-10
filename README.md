@@ -10,5 +10,5 @@
 
 ## News
 
-* **2025-04:** Code and weights will be available very soon!
-* **2025-04:** Our paper is accepted by **AAAI 2026**.
+* **2025-11:** Code and weights will be available very soon!
+* **2025-11:** Our paper is accepted by **AAAI 2026**.
